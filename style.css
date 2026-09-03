@@ -211,7 +211,6 @@ h2::after {
     padding: 20px 0;
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
 }
 .proyecto-info h3 {
     margin-bottom: 10px;
