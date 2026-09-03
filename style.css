@@ -215,6 +215,9 @@ h2::after {
     font-size: 0.9rem;
     color: var(--muted);
 }
+.proyecto-links {
+    margin-top: 15px;
+}
 
 /* ================= INFO ================= */
 .info-card i {
