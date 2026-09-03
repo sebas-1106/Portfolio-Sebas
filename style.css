@@ -135,6 +135,7 @@ nav ul li a:hover::after {
 }
 
 .btn-small {
+    margin-top: 12px;
     padding: 8px 18px;
     background: var(--light);
     color: var(--text);
