@@ -168,9 +168,10 @@ h2::after {
 
 /* ================= EXPERIENCIA ================= */
 #experiencia{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax( 280px, 1fr));
-    gap: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 }
 
 /* ================= GRIDS ================= */
