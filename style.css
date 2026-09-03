@@ -224,7 +224,7 @@ h2::after {
 }
 .proyecto-links {
     margin-top: auto;
-    align-self: flex-start;
+    align-self: flex-end;
 }
 
 /* ================= INFO ================= */
